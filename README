@@ -1,1 +1,29 @@
+---------- Necessary informations ----------
 
+Reading this README file is necessary to make the program work !
+
+First of all, thank you for checking out this little project of mine.
+However, you need to download the library SDL2 and the compiler gcc for it to launch without issue. You can find them at the following addresses :
+		SDL2 : https://github.com/libsdl-org/SDL/releases
+		gcc : https://gcc.gnu.org/
+Then, you'll need to compile the programm using the Makefile to get an appropriate binary file (.exe, .o, etc.).
+You can do that with the commande "make" or "make all" in your terminal (executed in the directory of the file).
+
+Once it's done, you can launch said binary file and it'll work just fine !
+
+---------- Controls ----------
+
+The app works mainly with the mouse (to select a box or to interact with a button) but there is some support for basic controls :
+		- You can use the numeric keypad or the 1 to 9 keys when a box is selected to fill it with the corresponding number.
+		- You can use "Return" keys to validate the grid or the "Delete" keys to clear it.
+		- You can navigate between the solutions found with the arrows keys.
+		- The "Alt + F4" and "Esc" controls are also supported.
+
+--------- Thanks ----------
+
+I would like to thank you again for downloading my program !
+I hope you would kindly send me any comment on how to improve it or on potential bugs.
+
+Have a good day !
+
+-Faioa
