@@ -1,0 +1,381 @@
+ Log file on Mon Sep 12 21:46:15 2022
+--------------------------------------
+
+->Initialising window and renderer...
+->Done.
+
+->Initialising Buttons1...
+Initialising grid... Done.
+Initialising buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Solving sudoku grid.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid... 
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons1...
+Initialising grid... Done.
+Initialising buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons2...
+Loading images... Done.
+Initialising grid... Done.
+Printing buttons... Done.
+Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+->Initialising Buttons1...
+Initialising grid... Done.
+Initialising buttons... Done.
+->Done.
+
+->Printing grid...
+Loading images... Done.
+Printing content... Done.
+->Done.
+
+
+->Exiting the program.
